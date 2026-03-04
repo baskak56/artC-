@@ -1,0 +1,50 @@
+создание объекта: 0abae2b0-d77c-4d03-b67f-de0311b6adb2 Singleton1
+Singleton1 0abae2b0-d77c-4d03-b67f-de0311b6adb2, 0abae2b0-d77c-4d03-b67f-de0311b6adb2
+равны
+создание объекта: 0bf3f4d3-6019-493d-9f83-136a04e23431 Singleton2
+Singleton2 0bf3f4d3-6019-493d-9f83-136a04e23431, 0bf3f4d3-6019-493d-9f83-136a04e23431
+равны
+создание объекта: 70fca48b-13ed-4342-ac3e-b5e9190e001c Scoped1
+Scoped1 70fca48b-13ed-4342-ac3e-b5e9190e001c, 70fca48b-13ed-4342-ac3e-b5e9190e001c
+равны
+создание объекта: 86a630ee-7181-4cd1-b12e-d2fd23b3fae1 Scoped2
+Scoped2 86a630ee-7181-4cd1-b12e-d2fd23b3fae1, 86a630ee-7181-4cd1-b12e-d2fd23b3fae1
+равны
+создание объекта: e191c9bd-533b-4a99-b766-7c267d98e13d Transient1
+создание объекта: 21f24eac-5be5-48e2-ad5e-edfb3eae7870 Transient1
+Transient1 e191c9bd-533b-4a99-b766-7c267d98e13d, 21f24eac-5be5-48e2-ad5e-edfb3eae7870
+неравны
+создание объекта: e4b9e2c3-709b-4eb0-b76b-cae77393ae58 Transient2
+создание объекта: 16e79013-dd23-4cf0-aa3f-b7f904b84408 Transient2
+Transient2 e4b9e2c3-709b-4eb0-b76b-cae77393ae58, 16e79013-dd23-4cf0-aa3f-b7f904b84408
+неравны
+уничтожение объекта: 16e79013-dd23-4cf0-aa3f-b7f904b84408 Transient2
+уничтожение объекта: e4b9e2c3-709b-4eb0-b76b-cae77393ae58 Transient2
+уничтожение объекта: 21f24eac-5be5-48e2-ad5e-edfb3eae7870 Transient1
+уничтожение объекта: e191c9bd-533b-4a99-b766-7c267d98e13d Transient1
+уничтожение объекта: 86a630ee-7181-4cd1-b12e-d2fd23b3fae1 Scoped2
+уничтожение объекта: 70fca48b-13ed-4342-ac3e-b5e9190e001c Scoped1
+Singleton1 0abae2b0-d77c-4d03-b67f-de0311b6adb2, 0abae2b0-d77c-4d03-b67f-de0311b6adb2
+равны
+Singleton2 0bf3f4d3-6019-493d-9f83-136a04e23431, 0bf3f4d3-6019-493d-9f83-136a04e23431
+равны
+создание объекта: b74d63d9-2a90-4e40-9840-0e657f3956f4 Scoped1
+Scoped1 b74d63d9-2a90-4e40-9840-0e657f3956f4, b74d63d9-2a90-4e40-9840-0e657f3956f4
+равны
+создание объекта: 52da528b-74f2-45d1-9242-1313e43c30e3 Scoped2
+Scoped2 52da528b-74f2-45d1-9242-1313e43c30e3, 52da528b-74f2-45d1-9242-1313e43c30e3
+равны
+создание объекта: e734c82c-af72-4641-8d8c-c9b11437b808 Transient1
+создание объекта: 0a23d72b-7447-42b8-a555-9af31a5beb26 Transient1
+Transient1 e734c82c-af72-4641-8d8c-c9b11437b808, 0a23d72b-7447-42b8-a555-9af31a5beb26
+неравны
+создание объекта: d724bdd6-e07b-4ba5-8cf9-c46a1f49ed6c Transient2
+создание объекта: cf44a01f-7b51-4e9a-8770-e58873f80e66 Transient2
+Transient2 d724bdd6-e07b-4ba5-8cf9-c46a1f49ed6c, cf44a01f-7b51-4e9a-8770-e58873f80e66
+неравны
+уничтожение объекта: cf44a01f-7b51-4e9a-8770-e58873f80e66 Transient2
+уничтожение объекта: d724bdd6-e07b-4ba5-8cf9-c46a1f49ed6c Transient2
+уничтожение объекта: 0a23d72b-7447-42b8-a555-9af31a5beb26 Transient1
+уничтожение объекта: e734c82c-af72-4641-8d8c-c9b11437b808 Transient1
+уничтожение объекта: 52da528b-74f2-45d1-9242-1313e43c30e3 Scoped2
+уничтожение объекта: b74d63d9-2a90-4e40-9840-0e657f3956f4 Scoped1
